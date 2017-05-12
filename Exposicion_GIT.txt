@@ -1,0 +1,53 @@
+﻿Control de versiones: 
+Brahyan Francisco Galván  
+
+Un sistema de control de versiones(VCS) 
+es un sistema que registra los cambios realizados
+en un archivo a lo largo del tiempo, de modo que puedes 
+recuperar versiones específicas más adelante. 
+
+Características: 
+
+
+TIPOS DE VERSIÓN: 
+Podemos clasificar los sistemas de control en versiones:
+Versiones locales: 
+-Sistemas que lo utilizan: 
+*Revision Control System (RCS).
+*Source Code Control(SCC).
+------------------------------------------------------------------------ 
+Sistemas de control de versiones centralizados:
+-Guarda los datos a modo de cliente-servidor 
+-Sistema que lo utilizan: 
+->Código Abierto
+*Subversiones
+->Código cerrado 
+*Visual Stdio Team Foundation Server 
+------------------------------------------------------------------------
+Sistemas de control de versiones distribuidos(local+centralizado):
+-Un programa guarda los datos y con una extensión lo sube a internet.
+Sistemas que lo utilizan: 
+*Baza:sistema de microsoft.
+*GIT: más seguro que baza.
+------------------------------------------------------------------------ 
+DESCARGA: 
+*BUSCAR GIT EN EL NAVEGADOR 
+*EN EL SITIO DE GIT DESCARGAMOS COMO CUALQUIER OTRO 
+*EJECUTAMOS
+*SIGUIENTE EN EL CONTRATO
+*ESCOGEMOS LA RUTA EN LA QUE SE GUARDARÁ LA APLICACIÓN
+*SELECCIONAMOS LOS COMPONENTES: 
+ -seleccionamos las dos opciones de windows Explorer Integration...
+-seleccionamos las tres opciones siguientes...
+-la útlima no...
+-y la primera genera un icono de acceso directo al escritorio(opcional) 
+*SELECIONAMOS EL NOMBRE CON EL QUE APARECERÁ EN LA CARPETA DE NAVEGACIÓN DEL MENÚ
+*AJUSTAMOS LA RUTA DEL ENTORNO 
+*SELECCIONAMOS LA LIBRERÍA(la primera en nuestro caso)
+*LOS ESTILOS DE LAS TERMINACIONES DEL CÓDIGO 
+*CONFIGURAMOS EL EMULADOR DE TERMINAL DE WINDOWS
+*Y POR ÚLTIMO LO INSTALAMOS 
+*VERIFICAMOS EN EL CMD SI ESTÁ INSTALADO(ESCRIBIMOS GIT)
+*Y PODEMOS VER LA VERSIÓN(ESCRIBIMOS git -v) 
+----------------------------------------------------------------------------
+2) CREAMOS UNA CARPETA EN EL ESCRITORIO 
